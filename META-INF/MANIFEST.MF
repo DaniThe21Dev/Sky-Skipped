@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+ForceLoadAsMod: true
+ModSide: CLIENT
+ModType: FML
+TweakClass: gg.essential.loader.stage0.EssentialSetupTweaker
+TweakOrder: 0
+MixinConfigs: mixins.sm.json
+

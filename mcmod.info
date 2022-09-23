@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "skyskipped",
+    "name": "SkySkipped",
+    "description": "Hypixel Skyblock QOL focused mod",
+    "version": "3.2",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/Cephetir/SkySkipped",
+    "updateUrl": "https://github.com/Cephetir/SkySkipped/releases/latest",
+    "authorList": ["Cephetir"],
+    "credits": "Cephetir",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
